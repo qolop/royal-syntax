@@ -1,0 +1,20 @@
+{
+  "name": "royal-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A theme to be used by kings and queens",
+  "keywords": [
+    "syntax",
+    "theme",
+    "royal",
+    "queen",
+    "king",
+    "princess",
+    "prince",
+  ],
+  "repository": "https://github.com/qolop/royal-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
